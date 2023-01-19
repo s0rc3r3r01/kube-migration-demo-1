@@ -1,0 +1,80 @@
+# github.com/ardanlabs/conf/v3 v3.1.3
+## explicit; go 1.13
+github.com/ardanlabs/conf/v3
+# github.com/ardanlabs/darwin/v2 v2.0.0
+## explicit; go 1.16
+github.com/ardanlabs/darwin/v2
+# github.com/dimfeld/httptreemux/v5 v5.5.0
+## explicit; go 1.9
+github.com/dimfeld/httptreemux/v5
+# github.com/go-playground/locales v0.14.0
+## explicit; go 1.13
+github.com/go-playground/locales
+github.com/go-playground/locales/currency
+github.com/go-playground/locales/en
+# github.com/go-playground/universal-translator v0.18.0
+## explicit; go 1.13
+github.com/go-playground/universal-translator
+# github.com/go-playground/validator/v10 v10.11.1
+## explicit; go 1.13
+github.com/go-playground/validator/v10
+github.com/go-playground/validator/v10/translations/en
+# github.com/google/go-cmp v0.5.9
+## explicit; go 1.13
+github.com/google/go-cmp/cmp
+github.com/google/go-cmp/cmp/cmpopts
+github.com/google/go-cmp/cmp/internal/diff
+github.com/google/go-cmp/cmp/internal/flags
+github.com/google/go-cmp/cmp/internal/function
+github.com/google/go-cmp/cmp/internal/value
+# github.com/google/uuid v1.3.0
+## explicit
+github.com/google/uuid
+# github.com/jmoiron/sqlx v1.3.5
+## explicit; go 1.10
+github.com/jmoiron/sqlx
+github.com/jmoiron/sqlx/reflectx
+# github.com/leodido/go-urn v1.2.1
+## explicit; go 1.13
+github.com/leodido/go-urn
+# github.com/lib/pq v1.10.7
+## explicit; go 1.13
+github.com/lib/pq
+github.com/lib/pq/oid
+github.com/lib/pq/scram
+# github.com/pkg/errors v0.9.1
+## explicit
+# github.com/stretchr/testify v1.8.1
+## explicit; go 1.13
+# go.uber.org/atomic v1.10.0
+## explicit; go 1.18
+go.uber.org/atomic
+# go.uber.org/automaxprocs v1.5.1
+## explicit; go 1.18
+go.uber.org/automaxprocs/internal/cgroups
+go.uber.org/automaxprocs/internal/runtime
+go.uber.org/automaxprocs/maxprocs
+# go.uber.org/multierr v1.9.0
+## explicit; go 1.19
+go.uber.org/multierr
+# go.uber.org/zap v1.24.0
+## explicit; go 1.19
+go.uber.org/zap
+go.uber.org/zap/buffer
+go.uber.org/zap/internal
+go.uber.org/zap/internal/bufferpool
+go.uber.org/zap/internal/color
+go.uber.org/zap/internal/exit
+go.uber.org/zap/zapcore
+# golang.org/x/crypto v0.4.0
+## explicit; go 1.17
+golang.org/x/crypto/sha3
+# golang.org/x/sys v0.3.0
+## explicit; go 1.17
+golang.org/x/sys/cpu
+# golang.org/x/text v0.5.0
+## explicit; go 1.17
+golang.org/x/text/internal/language
+golang.org/x/text/internal/language/compact
+golang.org/x/text/internal/tag
+golang.org/x/text/language
